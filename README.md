@@ -1,7 +1,7 @@
 # SwappingNum
 package cal;
 
-public class a1 {
+public class SwappingNum {
 
 	public static void main(String[] args) {
 		int a=5;
